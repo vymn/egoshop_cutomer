@@ -1,0 +1,125 @@
+M = modified ( replace file in your project )
+A = added    ( add     file in your project )
+D = deleted  ( delete  file in your project )
+R = renamed  ( rename  file in your project )
+
+
+M       assets/images/svg/introimage_a.svg
+A       assets/images/svg/introimage_a_dark.svg
+M       assets/images/svg/introimage_b.svg
+A       assets/images/svg/introimage_b_dark.svg
+M       assets/images/svg/introimage_c.svg
+A       assets/images/svg/introimage_c_dark.svg
+M       ios/Podfile.lock
+M       ios/Runner.xcodeproj/project.pbxproj
+M       ios/Runner/Info.plist
+M       lib/Helper/String.dart
+M       lib/Helper/routes.dart
+M       lib/Language/ar.json
+M       lib/Language/de.json
+M       lib/Language/en.json
+M       lib/Language/es.json
+M       lib/Language/fr.json
+M       lib/Language/hi.json
+M       lib/Language/ja.json
+M       lib/Language/ru.json
+M       lib/Language/zh.json
+M       lib/Model/Section_Model.dart
+M       lib/Model/appSettingsModel.dart
+M       lib/Provider/SingleProductProvider.dart
+M       lib/Provider/authenticationProvider.dart
+M       lib/Provider/chatProvider.dart
+M       lib/Provider/pushNotificationProvider.dart
+M       lib/Screen/AllCategory/All_Category.dart
+M       lib/Screen/Auth/SendOtp.dart
+M       lib/Screen/Cart/Cart.dart
+M       lib/Screen/Cart/Widget/cartIteamWidget.dart
+M       lib/Screen/Cart/Widget/cartListIteamWidget.dart
+M       lib/Screen/Cart/Widget/setAddress.dart
+M       lib/Screen/Chat/Chat.dart
+M       lib/Screen/CompareList/CompareList.dart
+M       lib/Screen/CompareList/Widget/compareProductWidget.dart
+M       lib/Screen/ExploreSection/Widgte/sellerContentWidget.da
+rt
+M       lib/Screen/ExploreSection/explore.dart
+M       lib/Screen/FAQsProduct/Widget/commandWidgetFaQ.dart
+M       lib/Screen/Favourite/Widget/FavProductData.dart
+M       lib/Screen/IntroSlider/Intro_Slider.dart
+M       lib/Screen/IntroSlider/Widgets/SetSlider.dart
+R099    lib/Screen/Manage Address/Manage_Address.dart   lib/Scr
+een/Manage_Address/Manage_Address.dart
+R100    lib/Screen/Manage Address/Widget/RadioItem.dart lib/Scr
+een/Manage_Address/Widget/RadioItem.dart
+M       lib/Screen/MyOrder/Widget/OrderListData.dart
+R098    lib/Screen/My Wallet/My_Wallet.dart     lib/Screen/My_W
+allet/My_Wallet.dart
+R100    lib/Screen/My Wallet/Widgets/myWalletDialog.dart       
+        lib/Screen/My_Wallet/Widgets/myWalletDialog.dart
+R100    lib/Screen/My Wallet/Widgets/walletTransactionItem.dart
+        lib/Screen/My_Wallet/Widgets/walletTransactionItem.dart
+R100    lib/Screen/My Wallet/Widgets/withdrawRequestItem.dart  
+        lib/Screen/My_Wallet/Widgets/withdrawRequestItem.dart
+M       lib/Screen/OrderDetail/Widget/OrderStatusData.dart
+M       lib/Screen/OrderDetail/Widget/ProductItemdata.dart
+M       lib/Screen/ProductList&SectionView/ProductList.dart
+M       lib/Screen/ProductList&SectionView/widgets/gridViewSect
+ion.dart
+M       lib/Screen/ProductPreview/productPreview.dart
+R100    lib/Screen/Product Detail/Widget/ProductHighLight.dart 
+        lib/Screen/Product_Detail/Widget/ProductHighLight.dart
+R100    lib/Screen/Product Detail/Widget/allQuestionButton.dart
+        lib/Screen/Product_Detail/Widget/allQuestionButton.dart
+R100    lib/Screen/Product Detail/Widget/brandNameWidget.dart  
+        lib/Screen/Product_Detail/Widget/brandNameWidget.dart
+R093    lib/Screen/Product Detail/Widget/commanFiledsofProduct.
+dart    lib/Screen/Product_Detail/Widget/commanFiledsofProduct.
+dart
+R100    lib/Screen/Product Detail/Widget/compareProduct.dart   
+        lib/Screen/Product_Detail/Widget/compareProduct.dart
+R100    lib/Screen/Product Detail/Widget/deliveryPinCode.dart  
+        lib/Screen/Product_Detail/Widget/deliveryPinCode.dart
+R100    lib/Screen/Product Detail/Widget/postFaq.dart   lib/Scr
+een/Product_Detail/Widget/postFaq.dart
+R100    lib/Screen/Product Detail/Widget/productExtraDetail.dar
+t       lib/Screen/Product_Detail/Widget/productExtraDetail.dar
+t
+R058    lib/Screen/Product Detail/Widget/productItemList.dart  
+        lib/Screen/Product_Detail/Widget/productItemList.dart
+R100    lib/Screen/Product Detail/Widget/productMoreDetail.dart
+        lib/Screen/Product_Detail/Widget/productMoreDetail.dart
+R100    lib/Screen/Product Detail/Widget/productRattingUI.dart 
+        lib/Screen/Product_Detail/Widget/productRattingUI.dart
+R099    lib/Screen/Product Detail/Widget/reviewList.dart       
+        lib/Screen/Product_Detail/Widget/reviewList.dart
+R100    lib/Screen/Product Detail/Widget/reviewStar.dart       
+        lib/Screen/Product_Detail/Widget/reviewStar.dart
+R098    lib/Screen/Product Detail/Widget/reviewUI.dart  lib/Scr
+een/Product_Detail/Widget/reviewUI.dart
+R100    lib/Screen/Product Detail/Widget/sellerDetail.dart     
+        lib/Screen/Product_Detail/Widget/sellerDetail.dart
+R100    lib/Screen/Product Detail/Widget/specialExtraOfferBtn.d
+art     lib/Screen/Product_Detail/Widget/specialExtraOfferBtn.d
+art
+R100    lib/Screen/Product Detail/Widget/statesticsAnimatedHigh
+lightWidget.dart        lib/Screen/Product_Detail/Widget/states
+ticsAnimatedHighlightWidget.dart
+R062    lib/Screen/Product Detail/productDetail.dart    lib/Scr
+een/Product_Detail/productDetail.dart
+M       lib/Screen/ReviewGallary/reviewGallary.dart
+M       lib/Screen/Search/Search.dart
+M       lib/Screen/Search/Widget/SuggestionsList.dart
+M       lib/Screen/SellerDetail/Widget/sellerProfileWidget.dart
+M       lib/Screen/SplashScreen/Splash.dart
+M       lib/Screen/SubCategory/SubCategory.dart
+M       lib/Screen/converstationScreen.dart
+M       lib/Screen/homePage/widgets/section.dart
+M       lib/Screen/homePage/widgets/singleProductContainer.dart
+M       lib/Screen/homePage/widgets/slider.dart
+M       lib/appConstants.dart
+M       lib/widgets/GridViewProduct.dart
+M       lib/widgets/ListViewProdusct.dart
+A       lib/widgets/customSelectionContainer.dart
+M       lib/widgets/customfevoritebuttonforCards.dart
+M       lib/widgets/networkAvailablity.dart
+M       pubspec.lock
+M       pubspec.yaml
